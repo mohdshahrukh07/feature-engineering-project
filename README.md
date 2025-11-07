@@ -1,2 +1,2 @@
 # feature-engineering-project
- data science mini project based of feature engineering
+ data science mini project based on feature engineering
